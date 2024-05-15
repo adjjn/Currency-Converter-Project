@@ -32,6 +32,14 @@ Using the currency converter is straightforward:
 * Convert: Click the "Convert" button to see the converted amount.
 * View Results: The converted amount will be displayed below the button for your convenience.
 
+# Dependencies
+Exchange Rate API: The project relies on an external API to fetch real-time exchange rates. You need an API key to access the service.
+
+# Future Enhancements
+* Additional Currency Support: Expand the list of supported currencies.
+* Historical Exchange Rates: Implement functionality to retrieve historical exchange rates.
+* Localization: Add support for different languages and regions.
+
 # Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request. Let's make this currency converter even better together!
 
@@ -41,3 +49,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgements
 * API Provider: We'd like to extend our gratitude to the provider of the exchange rate API for enabling us to fetch real-time exchange rates.
 * Icons: Icons used in this project are sourced from FontAwesome.
+
+# Contributor
+ADITI JAIN  - Project Lead & Developer 
