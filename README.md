@@ -1,19 +1,10 @@
 # Currency Converter Project
 This is a simple currency converter web application built using HTML, CSS, and JavaScript. It allows users to convert between different currencies using real-time exchange rates.
 
-# Table of Contents
-Features
-Demo
-Installation
-Usage
-Contributing
-License
-
-
 # Features
-Convert between different currencies.
-Real-time exchange rates using an API.
-Simple and intuitive user interface.
+* Convert between different currencies.
+* Real-time exchange rates using an API.
+* Simple and intuitive user interface.
 
 # Demo
 You can see a live demo of the currency converter project here (provide link to your deployed project).
