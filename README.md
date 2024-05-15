@@ -8,7 +8,7 @@
 * Simple and intuitive user interface.
 
 # Demo
-You can see a live demo of the currency converter project here (provide link to your deployed project).
+You can see a live demo of the currency converter project here ().
 
 # Installation
 * To run this project locally, follow these steps:
