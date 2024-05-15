@@ -1,5 +1,5 @@
-# Currency Converter Project
-- Welcome to the Currency Converter Project! This is a simple web application that allows users to convert between different currencies. 
+# Welcome to the Currency Converter Project!
+- This is a simple web application that allows users to convert between different currencies. 
 - It's built using HTML, CSS, and JavaScript, and it utilizes real-time exchange rates from a reliable API.
 
 # Features
