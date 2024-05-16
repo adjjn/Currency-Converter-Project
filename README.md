@@ -14,7 +14,7 @@
 * API: Utilizes an external API to fetch real-time exchange rates.
 
 # Demo
-You can see a live demo of the currency converter project here ().
+You can see a live demo of the currency converter project here https://adjjn.github.io/Currency-Converter-Project/.
 
 # Installation
 To run this project locally, follow these steps:
